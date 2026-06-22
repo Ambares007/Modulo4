@@ -1,0 +1,17 @@
+1) Utilizar contraseñas seguras y únicas: Crear contraseñas fuertes que combinen 
+letras mayúsculas y minúsculas, números y caracteres especiales para proteger las
+ cuentas de los usuarios.
+
+2)Implementar autenticación de usuarios: Utilizar mecanismos de verificación, como 
+la autenticación en dos pasos (2FA), para evitar accesos no autorizados a la plataforma.
+
+3) Realizar copias de seguridad periódicas: Guardar respaldos de la información de manera
+ regular para recuperar los datos en caso de fallos, pérdidas o ataques informáticos.
+
+4) Mantener el software actualizado: Actualizar constantemente la plataforma, sus c
+omplementos y sistemas de seguridad para corregir vulnerabilidades y mejorar la protección
+ frente a amenazas digitales.
+
+5) Capacitar a los usuarios en seguridad digital: Promover buenas prácticas como 
+identificar intentos de fraude, proteger la información personal y utilizar de forma 
+responsable las herramientas tecnológicas de la comunidad.
