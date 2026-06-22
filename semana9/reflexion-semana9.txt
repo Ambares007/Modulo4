@@ -1,0 +1,15 @@
+Es importante que las plataformas tecnológicas usadas por comunidades funcionen de 
+manera estable y segura en un servidor porque de eso depende que la información esté 
+siempre disponible, protegida y funcione correctamente para todos los usuarios.
+En primer lugar, la estabilidad del servidor garantiza que la plataforma no se caiga
+ o deje de funcionar en momentos críticos, lo cual es clave cuando se gestionan reportes, 
+ propuestas o procesos participativos que requieren acceso continuo. Si el servidor falla,
+la comunidad puede perder información o dejar de participar activamente.
+En segundo lugar, la seguridad del servidor protege los datos de los usuarios frente a ataques
+ informáticos, accesos no autorizados o robos de información. Esto es especialmente importante
+  porque estas plataformas suelen manejar datos personales y contenidos sensibles de la comunidad.
+
+Además, un servidor confiable permite una mejor experiencia de uso, evitando lentitud, errores
+ o interrupciones que podrían desmotivar la participación ciudadana. También ayuda a mantener
+  la integridad de los datos, asegurando que la información no sea alterada de forma 
+  malintencionada.
