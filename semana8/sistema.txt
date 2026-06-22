@@ -1,0 +1,5 @@
+Uname -accesos
+Proporciona información detallada sobre el núcleo  del sistema operativo, en este caso, unas líneas de 
+código que no logro comprender comletamente. Exceltp por el "X86_64" que se que es o son
+los archivos del programa y el sistema operativo que es de 64 bits.
+
