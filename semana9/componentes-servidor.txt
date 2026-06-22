@@ -1,0 +1,15 @@
+Aplicación server.js: 
+-Es el archivo principal del servidor en Node.js donde se define la lógica de 
+la aplicación. Aquí se configuran rutas, respuestas del servidor y conexión con la plataforma.
+
+Puerto:
+- Es el canal de comunicación por donde el servidor recibe y envía información. Cada 
+aplicación usa un puerto específico para ser accesible desde el navegador o la red.
+
+Logs:
+-Son registros de actividad del sistema o la aplicación. Permiten monitorear errores, 
+accesos y eventos importantes para analizar el funcionamiento del servidor.
+
+Node.js:
+-Es un entorno de ejecución que permite ejecutar JavaScript en el servidor. Se usa para
+ crear aplicaciones backend que manejan solicitudes, datos y comunicación con el usuario.
