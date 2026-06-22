@@ -1,0 +1,5 @@
+cuando se ingresa el comando Node server.js se toma unos segundos 
+en abrirm y luego procesa la solicitud y aparece el recuadro del puero en el navegador. 
+Dos botones exactamente, uno verde que da la opción de abrirlo en el navegador. 
+la segunda que da la opción en gris "Convertir en publico"
+
