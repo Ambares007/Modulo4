@@ -1,0 +1,11 @@
+1. Proteger contraseñas:
+Las contraseñas deben almacenarse de forma segura (por ejemplo, encriptadas)
+y nunca deben mostrarse en texto plano dentro del sistema.
+
+2. No compartir credenciales:
+Los usuarios y administradores no deben compartir sus usuarios ni contraseñas,
+para evitar accesos no autorizados a la plataforma.
+
+3. Mantener el software actualizado:
+Es importante actualizar Node.js, dependencias y el sistema en general
+para corregir vulnerabilidades y mejorar la seguridad del servidor.
